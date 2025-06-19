@@ -1,0 +1,1 @@
+signtool.exe sign /f "bill01.pfx" /p orange /fd sha256 /t http://timestamp.digicert.com "main.exe"

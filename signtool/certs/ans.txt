@@ -1,0 +1,12 @@
+bill01 - orange
+bill02 - lemon
+bill03 - kiwi
+bill04 - strawberry
+bill05 - raspberry
+bill06 - blackberry
+bill07 - melon
+bill08 - grapes
+bill09 - pineapple
+bill10 - blueberry
+bill11 - pear
+
